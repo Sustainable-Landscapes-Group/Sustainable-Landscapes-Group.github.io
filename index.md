@@ -11,7 +11,7 @@ We are a research group that works on solutions for environmental sustainability
 
 ## Groups Meetings
 
-We have regular group meetings every 2 weeks (Fridays at 12) and the schedule of upcoming activities for those meetings can be found at (https://docs.google.com/spreadsheets/d/14nomzkgr7S8u8k94ebr20h2anIoC2bz--fLcS3YHX6Y/edit#gid=1692762897). Activities are run by members of the group on a rotational basis.    
+We have regular group meetings every 2 weeks (Fridays at 12) and the schedule of upcoming activities for those meetings can be found [here](https://docs.google.com/spreadsheets/d/14nomzkgr7S8u8k94ebr20h2anIoC2bz--fLcS3YHX6Y/edit#gid=1692762897). Activities are run by members of the group on a rotational basis.    
 
 ## Website
 
