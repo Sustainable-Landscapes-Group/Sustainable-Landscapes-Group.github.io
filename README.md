@@ -1,1 +1,1 @@
-# Sustainable-Landscapes-Group.github.io
+# Sustainable Landscapes Group Manual
