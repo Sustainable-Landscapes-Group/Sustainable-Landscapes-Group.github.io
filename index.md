@@ -6,9 +6,9 @@ We are a research group that works on solutions for environmental sustainability
 
 ## Communication
 
-We use a group email list for communication and the email address for the group email list is [mailto](mailto:sees.slg@uq.edu.au). Note that you can only send an email to group of you are a member of the group. If you need to be added to the email list please email Jonathan Rhodes ([mailto](mailto:j.rhodes@uq.edu.au)).  
+We use a group email list for communication and the email address for the group email list is [sees.slg@uq.edu.au](mailto:sees.slg@uq.edu.au). Note that you can only send an email to group of you are a member of the group. If you need to be added to the email list please email Jonathan Rhodes ([j.rhodes@uq.edu.au](mailto:j.rhodes@uq.edu.au)).  
 
-CBCS also has an email list for communication. Email [mailto](mailto:cbcs-info@uq.edu.au) to be added to the CBCS email list and receive information about CBCS news and activities.       
+CBCS also has an email list for communication. Email [cbcs-info@uq.edu.au](mailto:cbcs-info@uq.edu.au) to be added to the CBCS email list and receive information about CBCS news and activities.       
 
 ## Groups Meetings and Group Activities
 
@@ -18,7 +18,7 @@ In addition, the Centre for Biodiversity and Conservation Science has morning te
 
 ## Website
 
-We have a group website (powered by [Wix](https://www.wix.com)) at [(https://www.sustainable-landscapes-group.com/](https://www.sustainable-landscapes-group.com/) where we list group members and post news and information about research, publications and opportunities. Each group member should have access to the website, have their profile represented, and be able to add blog post or edit other aspects of the website. If you don't currently have access or your profile is missing please email Jonathan Rhodes ([mailto](mailto:j.rhodes@uq.edu.au)).
+We have a group website (powered by [Wix](https://www.wix.com)) at [(https://www.sustainable-landscapes-group.com/](https://www.sustainable-landscapes-group.com/) where we list group members and post news and information about research, publications and opportunities. Each group member should have access to the website, have their profile represented, and be able to add blog post or edit other aspects of the website. If you don't currently have access or your profile is missing please email Jonathan Rhodes ([j.rhodes@uq.edu.au](mailto:j.rhodes@uq.edu.au)).
 
 ## Mentoring and Buddy System
 
@@ -31,20 +31,20 @@ We have a group website (powered by [Wix](https://www.wix.com)) at [(https://www
 
 ### Computer Resources and Software
 
-RDM
-Server
+#### RDM
+#### Server
 
 ### Writing Resources
 
 ### Data Management, Collaboration Tools, and Reproducibility
 
-RDM
-LabArchives
-Github
-GoogleDocs/Paperpile/Auto-Latex Equations
-Trello
-Pre-registration
-Data archiving
+#### RDM
+#### LabArchives
+#### Github
+#### GoogleDocs/Paperpile/Auto-Latex Equations
+#### Trello
+#### Pre-registration
+#### Data archiving
 
 ### Mental Health and Well-being
 
