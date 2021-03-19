@@ -18,10 +18,11 @@ In addition, the Centre for Biodiversity and Conservation Science has morning te
 
 ## Website
 
-We have a group website (powered by [Wix](https://www.wix.com)) at [(https://www.sustainable-landscapes-group.com/](https://www.sustainable-landscapes-group.com/) where we list group members and post news and information about research, publications and opportunities. Each group member should have access to the website, have their profile represented, and be able to add blog post or edit other aspects of the website. If you don't currently have access or your profile is missing please email Jonathan Rhodes ([j.rhodes@uq.edu.au](mailto:j.rhodes@uq.edu.au)).
+We have a group website (powered by [Wix](https://www.wix.com)) at [https://www.sustainable-landscapes-group.com/](https://www.sustainable-landscapes-group.com/) where we list group members and post news and information about research, publications and opportunities. Each group member should have access to the website, have their profile represented, and be able to add blog post or edit other aspects of the website. If you don't currently have access or your profile is missing please email Jonathan Rhodes ([j.rhodes@uq.edu.au](mailto:j.rhodes@uq.edu.au)).
 
 ## Mentoring and Buddy System
 
+The will be a buddy system.
 
 ## Resources
 
