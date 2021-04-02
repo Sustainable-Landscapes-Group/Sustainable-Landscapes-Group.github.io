@@ -22,7 +22,7 @@ We have a group website (powered by [Wix](https://www.wix.com)) at [https://www.
 
 ## Mentoring and Buddy System
 
-The will be a buddy system.
+There will be a buddy system.
 
 ## Resources
 
@@ -40,7 +40,7 @@ The UQ Library provides training for students accross a range of topics, see the
 
 #### RDM
 
-UQ provides a collaborative, safe, and secure large-storage system called the [Research Data Manager](https://research.uq.edu.au/rmbt/uqrdm) (RDM). The RDM provides UQ with an integrated data management system covering the entire research data lifecycle. The RDM provides initial storage of 1-TB per project, with options to increase storage if needed. Students and staff can create as many projects in the RDM as needed. and can access these folders from the 'R' Drive on the UQ network. More information about the features of the RDM can be found [here](https://guides.library.uq.edu.au/for-researchers/uq-research-data-manager/about).
+UQ provides a collaborative, safe, and secure large-storage system called the [Research Data Manager](https://research.uq.edu.au/rmbt/uqrdm) (RDM). The RDM is an integrated data management system covering the entire research data lifecycle. The RDM provides initial storage of 1-TB per project, with options to increase storage if needed. Students and staff can create as many projects in the RDM as needed and can access these folders from the 'R' Drive on the UQ network. More information about the features of the RDM can be found [here](https://guides.library.uq.edu.au/for-researchers/uq-research-data-manager/about).
 
 #### Server
 
@@ -63,3 +63,5 @@ UQ provides a number of student and staff resources for mental health, including
 The School of Earth and Environmental Science (SEES) also has a Mental Health and Well-being Working Group, which is focused on providing resources and activities to maximise mental health and well-being of SEES students and staff. For example, the working group leads a monthly social sporting event at UQ (e.g., soccer, frisbee, volleyball) on the last Wednesday of every month. They also provide sporting equipment and board games. For more information about the working group, contact Eve McDonald-Madden (e.mcdonaldmadden@uq.edu.au).
 
 ### Other Resources
+
+Presenting and infographic tools: The UQ Library has summarised resources for creating and displaying presentations and infographics, with information on free training. More information can be found [here](https://web.library.uq.edu.au/research-tools-techniques/digital-essentials/choosing-the-right-tool/presenting-and-infographic-tools).
