@@ -22,7 +22,7 @@ We have a group website (powered by [Wix](https://www.wix.com)) at [https://www.
 
 ## Mentoring and Buddy System
 
-There will be a buddy system.
+In order to provide mentoring for new people joining the group we pair up new people with a buddy who has been in the group for a while. This provides an opportunity to ask any questions and seek advice and get to know people. The group as a whole also has ongoing discussions around mentoring and well-being and we welcome suggestions about how to do these aspects better.  
 
 ## Resources
 
@@ -36,33 +36,56 @@ The School of Earth and Environmental Sciences has additional links and resource
 
 The UQ Library provides training for students across a range of topics, see the current list of training [here](https://web.library.uq.edu.au/library-services/training).
 
-### Computer Resources and Software
-
-#### Server
-
-### HPC
-
-### Writing Resources
-
-### Data Management, Collaboration Tools, and Reproducibility
-
-#### RDM
-
-UQ provides a collaborative, safe, and secure large-storage system called the [Research Data Manager](https://research.uq.edu.au/rmbt/uqrdm) (RDM). The RDM is an integrated data management system covering the entire research data lifecycle. The RDM provides initial storage of 1-TB per project, with options to increase storage if needed. Students and staff can create as many projects in the RDM as needed and can access these folders from the 'R' network drive on UQ-owned computers. More information about the features of the RDM can be found [here](https://guides.library.uq.edu.au/for-researchers/uq-research-data-manager/about). Everyone in the group should be using the RDM for managing data for their projects.
-
-#### LabArchives
-#### Github
-#### GoogleDocs/Paperpile/Auto-Latex Equations
-#### Trello
-#### Pre-registration
-#### Data archiving
-
 ### Mental Health and Well-being
 
 UQ provides a number of student and staff resources for mental health, including free sessions with mental health counsellors. Students have access to 10 free counselling sessions each year, including face-to-face and online support. For more information about this student service, click [here](https://my.uq.edu.au/information-and-services/student-support/health-and-wellbeing/mental-health-and-emotional-support/counselling). Staff have access to mental health services via the Employee Assistance Program, with up to 6 counselling sessions from a third-party provider, BeneStar. For more information about this service click [here](https://staff.uq.edu.au/information-and-services/health-safety-wellbeing/mental-health/eap).
 
-The School of Earth and Environmental Science (SEES) also has a Mental Health and Well-being Working Group, which is focused on providing resources and activities to maximise mental health and well-being of SEES students and staff. For example, the working group leads a monthly social sporting event at UQ (e.g., soccer, frisbee, volleyball) on the last Wednesday of every month. They also provide sporting equipment and board games. For more information about the working group, contact Eve McDonald-Madden [e.mcdonaldmadden@uq.edu.au](mailto:e.mcdonaldmadden@uq.edu.au).
+The School of Earth and Environmental Science (SEES) also has a Mental Health and Well-being Working Group, which is focused on providing resources and activities to maximise mental health and well-being of SEES students and staff. For example, the working group leads a monthly social sporting event at UQ (e.g., soccer, frisbee, volleyball) on the last Wednesday of every month. They also provide sporting equipment and board games. For more information about the working group, contact Eve McDonald-Madden at [e.mcdonaldmadden@uq.edu.au](mailto:e.mcdonaldmadden@uq.edu.au).
+
+### Animal and Human Ethics
+
+If you are working directly with animals or human then it is likely the you will need animal or human ethics approval. Details of applying for animal or human ethics at UQ can be found [here](https://research.uq.edu.au/research-support/ethics-integrity-and-compliance/).
+
+### Data Management, Reproducibility, and Collaboration Tools
+
+#### Open Science
+
+In this group we aim to follow the principles of open science where the science we undertake is transparent and repeatable. For some information on these principles see the [Centre for Open Science](https://www.cos.io/)
+
+#### Research Data Manager
+
+UQ provides a collaborative, safe, and secure large-storage system called the [Research Data Manager](https://research.uq.edu.au/rmbt/uqrdm) (RDM). The RDM is an integrated data management system covering the entire research data lifecycle. The RDM provides initial storage of 1-TB per project, with options to increase storage if needed. Students and staff can create as many projects in the RDM as needed and can access these folders from the 'R' network drive on UQ-owned computers. More information about the features of the RDM can be found [here](https://guides.library.uq.edu.au/for-researchers/uq-research-data-manager/about). Everyone in the group should be using the RDM for managing data for their projects.
+
+#### GitHub
+
+We use [GitHub](https://github.com/) to manage, track version control, and share our analysis code. All members of the group should have a GitHub account and use it to develop and share the scripts/code for their analyses so that it is transparent and repeatable.
+
+#### Data Archiving
+
+Members of the group should make data used for publications available in online repositories unless there are restrictions on allowing that (e.g., when a data license or ethical reasons do not permit it). The most convenient place to archive data is via [UQ eSpace](https://espace.library.uq.edu.au/) and there are convenient tools to do that via the RDM as explained [here](https://guides.library.uq.edu.au/publish-a-dataset-with-uqrdm-and-uq-espace).   
+
+#### Google Docs
+
+As a group we are increasingly using tools such as Google Docs in [Google Drive](https://drive.google.com/) to collaboratively work on papers and other documents together. The advantage of this is that multiple people can works simultaneously on papers and speeds up the collaboration process. With new add-on tools for Google Docs such as [Paperpile](https://paperpile.com/) for citing literature and [Auto-Latex Equations](https://sites.google.com/site/autolatexequations/home) for mathematical notation these tools are becoming increasingly easy to use for the entire paper writing process.    
+
+#### LabArchives
+
+When creating a UQ RDM record you can also ask to create a LabArchives record. [LabArchives](https://www.labarchives.com/) provides an web-based application for documenting your project and is an excellent resource for transparency and documentation with mechanisms for sharing with other members of the project. We recommend members of the group to utilise this or similar resources where possible.        
+
+#### Trello
+
+For some projects tools for project management may be useful. One useful tool that members of the group have use is [Trello](https://trello.com/en) as it is simple, easy to use, and free. However, there other similar tools out there.  
+
+### Computational Resources and Software
+
+#### Servers
+
+#### High Performance Computing Centre (HPC)
+
+#### Software
 
 ### Other Resources
 
 Presentation and infographic tools: The UQ Library has summarised resources for creating and displaying presentations and infographics, with information on free training. More information can be found [here](https://web.library.uq.edu.au/research-tools-techniques/digital-essentials/choosing-the-right-tool/presenting-and-infographic-tools).
+
+Writing resources:
