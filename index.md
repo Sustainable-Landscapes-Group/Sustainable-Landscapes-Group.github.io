@@ -54,7 +54,7 @@ In this group we aim to follow the principles of open science where the science 
 
 #### Research Data Manager
 
-UQ provides a collaborative, safe, and secure large-storage system called the [Research Data Manager](https://research.uq.edu.au/rmbt/uqrdm) (RDM). The RDM is an integrated data management system covering the entire research data lifecycle. The RDM provides initial storage of 1-TB per project, with options to increase storage if needed. Students and staff can create as many projects in the RDM as needed and can access these folders from the 'R' network drive on UQ-owned computers. More information about the features of the RDM can be found [here](https://guides.library.uq.edu.au/for-researchers/uq-research-data-manager/about). Everyone in the group should be using the RDM for managing data for their projects.
+UQ provides a collaborative, safe, and secure large-storage system called the [Research Data Manager](https://research.uq.edu.au/rmbt/uqrdm) (RDM). The RDM is an integrated data management system covering the entire research data lifecycle. The RDM provides initial storage of 1-TB per project, with options to increase storage if needed. Students and staff can create as many projects in the RDM as needed and can access these folders from the 'R' network drive on UQ-owned computers. More information about the features of the RDM can be found [here](https://guides.library.uq.edu.au/for-researchers/uq-research-data-manager/about). Everyone in the group should be using the RDM for managing data for their projects. We also have a group record on the RDM (named "SUSLAND") that you will be given access to when you join and we use this for sharing of documents and for joint projects.   
 
 #### GitHub
 
@@ -78,14 +78,24 @@ For some projects tools for project management may be useful. One useful tool th
 
 ### Computational Resources and Software
 
+If you need help with any Information Technology matters then you can put a request in to UQ's ITS [here](https://staff.uq.edu.au/information-and-services/information-technology/it-support).
+
 #### Servers
+
+We have access to three Windows servers for running computationally intensive tasks. If you would like access to these then email Jonathan Rhodes ([j.rhodes@uq.edu.au](mailto:j.rhodes@uq.edu.au)) for details. These servers are generally accessed through a remote desktop connection and can be accessed from home with VPN running.  
 
 #### High Performance Computing Centre (HPC)
 
+UQ provides a range of high performance computing resources for running computational tasks and details can be found [here](https://rcc.uq.edu.au/high-performance-computing).
+
 #### Software
+
+On UQ computers a range of software applications can be accessed through Software Centre, but the range of software applications available for home computers varies. Information on software available can be found [here](https://my.uq.edu.au/information-and-services/information-technology/software/software-catalogue).  
 
 ### Other Resources
 
 Presentation and infographic tools: The UQ Library has summarised resources for creating and displaying presentations and infographics, with information on free training. More information can be found [here](https://web.library.uq.edu.au/research-tools-techniques/digital-essentials/choosing-the-right-tool/presenting-and-infographic-tools).
 
-Writing resources:
+Writing resources: There are a wide range of writing resources available on the web, but one resource our group has found particularly useful is Joshua Schimel's "Writing Science", which is available from the [library](https://search.library.uq.edu.au/primo-explore/fulldisplay?docid=61UQ_ALMA2184347480003131&context=L&vid=61UQ&lang=en_US&search_scope=61UQ_All&adaptor=Local%20Search%20Engine&tab=61uq_all&query=any,contains,writing%20science%20schimel&offset=0). This is an easy to read and highly practical guide to writing science for high impact publications and grant applications.   
+
+Media: As a group we aim to engage with the media in disseminating our research so as to maximise our impact. [UQ News](https://www.uq.edu.au/news/) and [The Conversation](https://theconversation.com/au) are excellent first ports of call for disseminating research. If you want advice on getting your research into the media then please ask as the group has a wide range of experience in working with the media.   
