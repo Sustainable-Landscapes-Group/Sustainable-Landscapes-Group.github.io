@@ -10,7 +10,7 @@ We use a group email list for communication and the email address for the group 
 
 CBCS also has an email list for communication. Email [cbcs-info@uq.edu.au](mailto:cbcs-info@uq.edu.au) to be added to the CBCS email list and receive information about CBCS news and activities.       
 
-## Groups Meetings and Group Activities
+## Group Meetings and Group Activities
 
 We have regular group meetings every 2 weeks (Fridays at 12) and the schedule of upcoming activities for those meetings can be found [here](https://docs.google.com/spreadsheets/d/14nomzkgr7S8u8k94ebr20h2anIoC2bz--fLcS3YHX6Y/edit#gid=1692762897). Activities are run by members of the group on a rotational basis.
 
