@@ -1,8 +1,8 @@
-# Sustainable Landscapes Group Manual
+# Sustainable Landscapes Group Resources
 
 ## About
 
-We are a research group that works on solutions for environmental sustainability mostly at landscape and larger scales based sat the University of Queensland. Our work is highly quantitative and multi-disciplinary and draws on the disciplines of landscape ecology, ecosystem service science, biodiversity conservation, decision science, and the social and economic sciences. We are mostly based in the School of Earth and Environmental Sciences ([SEES](https://sees.uq.edu.au/)) and are part of the Centre for Biodiversity and Conservation Science ([CBCS](https://cbcs.centre.uq.edu.au/)). We work collaboratively with a wide range of researchers from different disciplines within UQ, nationally, and internationally and with end-users of our research (particularly governments and NGOs).
+We are a research group that works on solutions for environmental sustainability mostly at landscape and larger scales based sat the University of Queensland. Our work is highly quantitative and multi-disciplinary and draws on the disciplines of landscape ecology, ecosystem service science, biodiversity conservation, decision science, and the social and economic sciences. We are mostly (bit not entirely) based in the School of Earth and Environmental Sciences ([SEES](https://sees.uq.edu.au/)) and are part of the Centre for Biodiversity and Conservation Science ([CBCS](https://cbcs.centre.uq.edu.au/)). We work collaboratively with a wide range of researchers from different disciplines within UQ, nationally, and internationally and with end-users of our research (particularly governments and NGOs).
 
 ## Communication
 
@@ -12,13 +12,19 @@ CBCS also has an email list for communication. Email [cbcs-info@uq.edu.au](mailt
 
 ## Group Meetings and Group Activities
 
-We have regular group meetings every 2 weeks (Fridays at 12) and the schedule of upcoming activities for those meetings can be found [here](https://docs.google.com/spreadsheets/d/14nomzkgr7S8u8k94ebr20h2anIoC2bz--fLcS3YHX6Y/edit#gid=1692762897). Activities are run by members of the group on a rotational basis.
+We have regular informal group meetings over lunch every 2 weeks (Fridays at 12). These meetings are used to update the group on what everyone is doing and to provide an opportunity for us to interact and share ideas.
+
+We also run other types of activities throughout the year, including:
+
+- Research Presentations and Seminars. If you would like to give a presentation or seminar to the group then contact Nanda Budhathoki ([n.budhathoki@uq.edu.au](mailto:n.budhathoki@uq.edu.au)).   
+- Skills Development and Training. If you have an idea for skills development or training then contact Brooke Williams ([brooke.williams@uq.edu.au](mailto:brooke.williams@uq.edu.au)).
+- Lab Retreat. We aim to run a lab retreat each year.    
 
 In addition, the Centre for Biodiversity and Conservation Science has morning teas followed by a seminar every Tuesday from 10.30 - 12.00. Get on the CBCS email list to receive information about these morning teas and seminars.
 
 ## Website
 
-We have a group website (powered by [Wix](https://www.wix.com)) at [https://www.sustainable-landscapes-group.com/](https://www.sustainable-landscapes-group.com/) where we list group members and post news and information about our research, publications, and opportunities. Each group member should have access to the website, have their profile represented, and be able to add blog post or edit other aspects of the website. If you don't currently have access or your profile is missing please email Jonathan Rhodes ([j.rhodes@uq.edu.au](mailto:j.rhodes@uq.edu.au)).
+We have a group website (powered by [Wix](https://www.wix.com)) at [https://www.sustainable-landscapes-group.com/](https://www.sustainable-landscapes-group.com/) where we list group members and post news and information about our research, publications, and opportunities. Each group member should have access to the website, have their profile represented, and be able to add blog posts or edit other aspects of the website. If you have some news of interest that you would like to post on the website then you can either post it yourself or contact Alex Watkins ([a.watkins@uq.edu.au](mailto:a.watkins@uq.edu.au)).
 
 ## Mentoring and Buddy System
 
@@ -54,11 +60,11 @@ In this group we aim to follow the principles of open science where the science 
 
 #### Research Data Manager
 
-UQ provides a collaborative, safe, and secure large-storage system called the [Research Data Manager](https://research.uq.edu.au/rmbt/uqrdm) (RDM). The RDM is an integrated data management system covering the entire research data lifecycle. The RDM provides initial storage of 1-TB per project, with options to increase storage if needed. Students and staff can create as many projects in the RDM as needed and can access these folders from the 'R' network drive on UQ-owned computers. More information about the features of the RDM can be found [here](https://guides.library.uq.edu.au/for-researchers/uq-research-data-manager/about). Everyone in the group should be using the RDM for managing data for their projects. We also have a group record on the RDM (named "SUSLAND") that you will be given access to when you join and we use this for sharing of documents and for joint projects.   
+UQ provides a collaborative, safe, and secure large-storage system called the [Research Data Manager](https://research.uq.edu.au/rmbt/uqrdm) (RDM). The RDM is an integrated data management system covering the entire research data lifecycle. The RDM provides initial storage of 1 TB per project, with options to increase storage if needed. Students and staff can create as many projects in the RDM as needed and can access these folders from the 'R' network drive on UQ-owned computers. More information about the features of the RDM can be found [here](https://guides.library.uq.edu.au/for-researchers/uq-research-data-manager/about). Everyone in the group should be using the RDM for managing data for their projects. We also have a group record on the RDM (named "SUSLAND") that you will be given access to when you join and we use this for sharing of documents and for joint projects.   
 
 #### GitHub
 
-We use [GitHub](https://github.com/) to manage, track version control, and share our analysis code. All members of the group should have a GitHub account and use it to develop and share the scripts/code for their analyses so that it is transparent and repeatable.
+We use [GitHub](https://github.com/) to manage, track version control, and share our analysis code. All members of the group should have a GitHub account and use it to develop and share the scripts/code for their analyses so that it is transparent and repeatable. The group has it's own GitHub organisation [here](https://github.com/Sustainable-Landscapes-Group) and if you would like to be given access contact Jonathan Rhodes ([j.rhodes@uq.edu.au](mailto:j.rhodes@uq.edu.au)).
 
 #### Data Archiving
 
