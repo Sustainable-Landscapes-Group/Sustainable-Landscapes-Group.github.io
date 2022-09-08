@@ -56,7 +56,7 @@ If you are working directly with animals or human then it is likely the you will
 
 #### Open Science
 
-In this group we aim to follow the principles of open science where the science we undertake is transparent and repeatable. For some information on these principles see the [Centre for Open Science](https://www.cos.io/)
+In this group we aim to follow the principles of open science where the science we undertake is transparent and repeatable. For some information on these principles see the [Centre for Open Science](https://www.cos.io/).
 
 #### Research Data Manager
 
