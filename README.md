@@ -1,1 +1,1 @@
-# Sustainable Landscapes Group Manual
+# Sustainable Landscapes Group Resources
