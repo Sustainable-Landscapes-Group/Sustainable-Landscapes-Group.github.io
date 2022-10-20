@@ -6,7 +6,7 @@ We are a research group that works on solutions for environmental sustainability
 
 ## Communication
 
-We use a group email list for communication and the email address for the group email list is [sees.slg@uq.edu.au](mailto:sees.slg@uq.edu.au). Note that you can only send an email to group of you are a member of the group. If you need to be added to the email list please email Jonathan Rhodes ([j.rhodes@uq.edu.au](mailto:j.rhodes@uq.edu.au)).  
+We use a group email list for communication and the email address for the group email list is [sees.slg@uq.edu.au](mailto:sees.slg@uq.edu.au). Note that you can only send an email to group of you are a member of the group. If you need to be added to the email list please email Jonathan Rhodes ([j.rhodes@uq.edu.au](mailto:j.rhodes@uq.edu.au)). In addition we a WhatsApp group and if you want to be added to that then please contact Alex Watkins ([a.watkins@uq.edu.au](mailto:a.watkins@uq.edu.au)). Note that everyone is on the email list but the WhatsApp group is optional.  
 
 CBCS also has an email list for communication. Email [cbcs-info@uq.edu.au](mailto:cbcs-info@uq.edu.au) to be added to the CBCS email list and receive information about CBCS news and activities.       
 
